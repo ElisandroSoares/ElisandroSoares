@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-![Leitor Biométrico](https://imgur.com/twGKVsw)
+![Sensor biométrico](https://github.com/ElisandroSoares/ElisandroSoares/assets/142903512/7859cb6f-b370-497d-be42-9d6a362f6e4a)
 
 <h1 align="center"> Leitor biometrico de acesso ao DC TVPOA </h1>
 
