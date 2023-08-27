@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-<h1 align"center"> Leitor biometrico de acesso ao DC TVPOA </h1>
+<h1 align="center"> Leitor biometrico de acesso ao DC TVPOA </h1>
 
 ![Leitor Biométrico](https://imgur.com/twGKVsw)
 
